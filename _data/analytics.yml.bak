@@ -2,7 +2,7 @@ google:
   id: UA-100531691-1
 
 matomo:
-  url: https://vps.yangleiting.com/analytics/
+  url: https://vps.irockbunny.com/analytics/
   domains:
   - "*.byr-navi.com"
   site_id: 1

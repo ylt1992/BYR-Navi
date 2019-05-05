@@ -8,7 +8,7 @@
   url: /analytics/
   active_key: analytics
 
-- name: 捐赠1
+- name: 捐赠
   icon: donate
   url: /donate/
   active_key: donate
