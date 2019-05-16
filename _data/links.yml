@@ -309,19 +309,19 @@
     #   url: http://www.dnvod.tv/
 
 - categories:
-  - name: 北邮校园
+  - name: 华杨导航
     links:
-    - name: 北邮官网
+    - name: 华杨网
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: http://www.qwer.men/
 
-    - name: 官方导航
+    - name: 华杨导航
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: http://ylt1992.github.io/
 
-    - name: 本科教务系统
+    - name: 华杨邮箱
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: http://mail.yangleiting.com/
 
     - name: 研究生教务系统
       style: basic
